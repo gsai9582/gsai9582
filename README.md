@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gowtham Sai Garnepudi
 
-### 🚀 B.Tech CSE (AI & ML) Student | Full Stack Developer | Cloud Enthusiast
+### 🚀 B.Tech CSE Student | Full Stack Developer | Cloud Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gsai9582&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
