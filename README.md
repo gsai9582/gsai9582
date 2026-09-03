@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Gowtham Sai Garnepudi
+# Hi 👋, I'm Gowtham Sai Garnepudi
 
-### Full Stack Developer • Cloud Engineer • AI/ML Enthusiast
+### 🚀 B.Tech CSE (AI & ML) Student | Full Stack Developer | Cloud Engineer | AI/ML Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gsai9582&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:gsai9582@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/gsai9582">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -17,77 +17,63 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering student specializing in AI & ML**, passionate about building scalable software, cloud-native applications, and intelligent systems.
+I'm a **B.Tech Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning** at **Vel Tech University**, with a strong interest in building practical software solutions across **Full Stack Development, Cloud Computing, and AI/ML**.
 
-Currently working as an **AWS Engineer Intern at EdiGlobe**, where I work with cloud infrastructure, deployment, optimization, and AWS services.
+Currently, I'm working as an **AWS Engineer Intern at EdiGlobe**, gaining hands-on experience with cloud infrastructure, deployment, optimization, and AWS services.
 
-My interests sit at the intersection of:
-
-* ☁️ **Cloud Computing & AWS**
-* 💻 **Full Stack Development**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 📊 **Data Analytics**
-* 🚀 **DevOps & Application Deployment**
-
-I enjoy transforming ideas into practical, scalable applications and continuously exploring emerging technologies.
+I enjoy turning ideas into useful applications, experimenting with emerging technologies, and continuously improving my software engineering and cloud skills.
 
 ### 📌 Quick Facts
 
-|                   |                                 |
-| ----------------- | ------------------------------- |
-| 🎓 Education      | B.Tech CSE (AI & ML)            |
-| 🏫 University     | Vel Tech University             |
-| 📈 CGPA           | 8.41                            |
-| ☁️ Cloud          | AWS                             |
-| 💻 Focus          | Full Stack + Cloud + AI/ML      |
-| 🏆 Certifications | AWS, CCNA, GenAI Data Analytics |
-| 💼 Experience     | Multiple internships            |
+* 🎓 **B.Tech CSE (AI & ML)** — Vel Tech University
+* 📈 **CGPA:** 8.41
+* ☁️ **Current Role:** AWS Engineer Intern — EdiGlobe
+* 💻 **Primary Interests:** Full Stack Development, Cloud Engineering & AI/ML
+* 🏆 **Certifications:** AWS Solutions Architect Associate, CCNA, GenAI-Powered Data Analytics
+* 🤝 **Community:** IEEE Member, IEEE WIE Member
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ### 🤖 AI / ML & Data
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Time%20Series-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Time%20Series-673AB7?style=for-the-badge" alt="Time Series"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" alt="Generative AI"/>
 </p>
 
-### 🗄️ Databases & Core CS
+### 🗄️ Core Computer Science
 
-<p>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-0078D4?style=for-the-badge"/>
-</p>
+`OOP` • `DBMS` • `SQL` • `Data Structures & Algorithms` • `Computer Networks`
 
 ---
 
@@ -99,44 +85,45 @@ I enjoy transforming ideas into practical, scalable applications and continuousl
 
 * Working with AWS cloud infrastructure and services.
 * Supporting cloud-based application deployment and management.
-* Exploring infrastructure optimization and cost-efficient architectures.
-* Collaborating on cloud engineering and migration-related tasks.
+* Exploring cloud architecture, optimization, and cost-efficient solutions.
+* Gaining practical experience in cloud engineering and migration workflows.
 
 ## 📊 Tableau & Data Analytics Intern — Surya Tech Solutions
 
 * Created interactive dashboards and data visualizations.
 * Analyzed datasets to identify meaningful business insights.
-* Worked with data analytics and visualization workflows.
+* Worked on business intelligence and reporting workflows.
+* Applied data analysis techniques to improve decision-making.
 
 ## 💻 Full Stack Web Development Intern — Internshala
 
-* Developed responsive web applications.
-* Worked with HTML, CSS and JavaScript.
-* Contributed to application development and backend integration.
-* Gained practical experience working on production-oriented projects.
+* Developed responsive web applications using HTML, CSS, and JavaScript.
+* Worked on frontend development and backend integration.
+* Practiced database integration and application optimization.
+* Gained hands-on experience with production-oriented development workflows.
 
 ## ☁️ Cloud Computing Intern — SmartED Innovations
 
 * Built and deployed cloud-based applications.
-* Worked with AWS services including EC2, S3 and RDS.
-* Gained hands-on experience with cloud deployment and infrastructure.
+* Worked with AWS services including **EC2, S3, and RDS**.
+* Gained practical exposure to cloud deployment and infrastructure management.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏓 Smart Table Tennis Racket
+## 🏓 Smart Table Tennis Racket — IoT
 
-**IoT • Sensors • Real-Time Analytics**
+**Tech:** IoT • Sensors • Real-Time Analytics
 
-A smart sensor-enabled table tennis racket designed to capture player performance data and generate meaningful game analytics.
+A smart sensor-enabled table tennis racket designed to capture player performance data and provide useful game analytics.
 
-**Highlights**
+### Highlights
 
 * Sensor-based performance tracking
 * Real-time player metrics
 * Game statistics and analytics
-* Developed for Smart India Hackathon 2025
+* Developed as part of **Smart India Hackathon 2025**
 
 **Status:** 🚧 In Progress
 
@@ -144,33 +131,33 @@ A smart sensor-enabled table tennis racket designed to capture player performanc
 
 ## 💊 Drug Demand Prediction System
 
-**Python • Machine Learning • Time Series Forecasting**
+**Tech:** Python • Machine Learning • Time Series Analysis
 
-An intelligent demand forecasting system designed to help pharmacies predict future medicine requirements and make better inventory decisions.
+An ML-powered demand forecasting system designed to help pharmacies estimate future medicine requirements and improve inventory planning.
 
-**Key Features**
+### Highlights
 
 * Historical demand analysis
 * Time-series forecasting
-* Demand prediction
-* Inventory planning
-* Data-driven decision support
+* Future demand prediction
+* Inventory planning support
+* Data-driven decision making
 
 ---
 
 ## 👷 Local Business & Worker Connection Platform
 
-**Full Stack Web Development**
+**Tech:** Full Stack Web Development
 
-A platform designed to connect local businesses with nearby workers and make local employment opportunities easier to discover.
+A platform designed to connect local businesses with nearby workers and make employment opportunities easier to discover.
 
-**Key Features**
+### Highlights
 
 * Business registration
 * Worker profiles
 * Job opportunity discovery
-* Location-based matching
-* Employment connection workflow
+* Local worker-business connections
+* Location-oriented employment matching
 
 ---
 
@@ -186,30 +173,41 @@ A platform designed to connect local businesses with nearby workers and make loc
 
 # 🎓 Education
 
-### Bachelor of Technology — Computer Science & Engineering (AI & ML)
+## Bachelor of Technology — Computer Science & Engineering (AI & ML)
 
 **Vel Tech University**
+
 **CGPA:** 8.41
 
 ---
 
 # 🏅 Achievements & Activities
 
-* IEEE Member — Madras Section
-* IEEE Women in Engineering Member
-* Participated in **MATHRIX 2K26 — CEG, Anna University**
-* Competed in **COMSCI 2K26 — SRM University**
+* 🧠 Participated in **MATHRIX 2K26** — CEG, Anna University
+* 💡 Participated in **COMSCI 2K26** — SRM University
 
   * Tech Quiz
   * Prompt Mania
-* Participated in **TANTRAZ 2K26**
+* ⚡ Participated in **TANTRAZ 2K26**
 
   * Puzzle
   * Connexion
+* 👨‍💻 **IEEE Member — Madras Section**
+* 👩‍💻 **IEEE WIE Member**
 
 ---
 
-# 📊 GitHub Analytics
+# 🌱 Currently Learning
+
+* 🚀 Advanced Full Stack Development
+* ☁️ AWS Cloud Architecture
+* 🧠 Data Structures & Algorithms
+* 🤖 Artificial Intelligence & Generative AI
+* 🔧 DevOps and modern deployment practices
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gsai9582&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00D9FF" alt="GitHub Stats"/>
@@ -221,40 +219,26 @@ A platform designed to connect local businesses with nearby workers and make loc
 
 ---
 
-# 🌱 Currently Learning
-
-```text
-☁️ AWS Cloud Architecture
-🤖 Generative AI
-🧠 Machine Learning
-💻 Full Stack Development
-🚀 DevOps & Deployment
-📊 Data Analytics
-```
-
----
-
 # 🎯 Career Interests
 
-I'm interested in opportunities involving:
+I'm interested in opportunities that allow me to work across:
 
-**Cloud Engineering | Full Stack Development | AI/ML | DevOps | Software Engineering**
+**Cloud Engineering • Full Stack Development • AI/ML • DevOps • Software Engineering**
 
-I'm particularly interested in building products that combine **cloud infrastructure, intelligent systems, and modern web technologies**.
+My goal is to build scalable, intelligent, and user-focused products while continuously strengthening my engineering skills.
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always open to collaborating on interesting projects, hackathons, internships, open-source contributions, and innovative technology ideas.
+I'm always interested in collaborating on innovative projects, hackathons, open-source contributions, internships, and technology ideas.
 
 <p align="center">
   <a href="mailto:gsai9582@gmail.com">
-    📧 Email
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  •
   <a href="https://github.com/gsai9582">
-    💻 GitHub
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -265,5 +249,5 @@ I'm always open to collaborating on interesting projects, hackathons, internship
 </p>
 
 <p align="center">
-  Made with ❤️ by Gowtham Sai Garnepudi
+  Made with ❤️ by <b>Gowtham Sai Garnepudi</b>
 </p>
